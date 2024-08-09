@@ -90,6 +90,6 @@ A capability is the intersection between an attribute and a component, for examp
 
 ## Test Report
 
-### [Download Report Here...](./Matrix_Reactapp.xlsx "download")
+### [Download Report Here...](https://github.com/NeerajaMaddala/React-native-app-testing/raw/main/Matrix_Reactapp.xlsx)
 
 ![alt text](image-1.png)
