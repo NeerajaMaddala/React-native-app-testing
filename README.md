@@ -1,7 +1,14 @@
 # React Native Chat App Testing
 
 ## Introduction 
-What native chat app is about and what is the scope of testing (functional, performance & usability)
+ChatApp is a mobile application develop to help user exchange messages, user can view each other profiles and chat on one to one or group bases. 
+
+## Challenge (Tasks)
+
+- Task 1: Functional Testing (Done)
+- Task 2: Usability Testing (Done)
+- Task 3: Performance Testing (Done)
+- Task 4: Automation (Not Done)
 
 ## Prerequesites 
 
@@ -48,13 +55,6 @@ Low impact low ease (P4 - Low customer impact features and Low Testing effort)
 ![alt text](image.png)
 
 
-## Testing types 
-
-- Task 1: Functional Testing
-- Task 2: Usability Testing
-- Task 3: Performance Testing
-
-
 ## Testing Approach  
 
 In order to test the chat app,  I would follow the ACC (Attribute, component, capability) testing approach, this approach was design by google and its primary objective is to test capabilities over features, I personally find this approach very useful since it helps the team to have common understanding about the product or component
@@ -72,8 +72,6 @@ A capability is the intersection between an attribute and a component, for examp
 
 **Accessible**: Focus in testing the application from the perspective of a person with different abilities
 
-**Responsive**: Focus in testing the application in different screen sizes and screen dimensions
-
 **Usable (Usability Testing)**: Evaluating the overal user experience of the application including learnability
 
 > Criteria: 
@@ -90,5 +88,8 @@ A capability is the intersection between an attribute and a component, for examp
 > - Measure the time taken for messages to be sent and received.
 > - Document the performance metrics and any observed issues. 
 
+## Test Report
 
+### [Download Report Here...](./Matrix_Reactapp.xlsx)
 
+![alt text](image-1.png)
