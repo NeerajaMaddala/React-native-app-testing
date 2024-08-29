@@ -14,6 +14,10 @@ ChatApp is a mobile application develop to help user exchange messages, user can
 
 - Download & Install Android Studio 
 - Download & Install virtual devices 
+- Download & Install appium server 
+- Download & Install appium inspector
+- Download & install intellij
+- Download & install javasdk-17
 
 ## Environment setup
 1. Open ANDROID STUDIO.
@@ -95,3 +99,12 @@ A capability is the intersection between an attribute and a component, for examp
 ![alt text](image-1.png)
 
 ## Automation setup
+
+### Process 
+
+1. Open a java project with intellij
+2. Build the project 
+3. Run the Test
+
+### Example of execution: 
+![alt text](image-2.png)
