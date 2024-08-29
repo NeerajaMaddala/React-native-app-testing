@@ -108,10 +108,10 @@ A capability is the intersection between an attribute and a component, for examp
 
 ### Test covered 
 
-- Signup --> (test01)
-- Logout --> (test02)
-- Login --> (test03)
-- Delete account --> (test04)
+- Signup --> (test_01)
+- Logout --> (test_02)
+- Login --> (test_03)
+- Delete account --> (test_04)
 
 ### Automated testing
 
